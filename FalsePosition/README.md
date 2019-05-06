@@ -1,5 +1,5 @@
 # FalsePosition
-I'll be honnest this code doesn't work that well. I put in a lot of effort but the code did not work for anything. 
+I'll be honnest this code doesn't work that well. I put in a lot of effort but the code did not work at all. 
 This code is suppose to find the root of the function by using the false position method. The code will pump out four varibles, the root, how many iterations it took, the precent error, and what the function value is at that point is. There are four input varibles, the function, the lower bound, the upper bound, the desired error, and the limit to iterations, to stop the code from running for infinity.
 * root= root
 * siter= number of iterations
